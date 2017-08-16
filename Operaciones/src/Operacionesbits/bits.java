@@ -22,9 +22,10 @@ public class bits {
         int i;
         for(i=0; i<5; i++ ){
            System.out.println(i);
+           break;
         }
         
-        
+        System.out.println(i);
         
         
     }
